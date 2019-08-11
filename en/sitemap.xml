@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://srktnc.github.io/categories/</loc>
+    <loc>https://srktnc.github.io/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://srktnc.github.io/tr/categories/"
+                href="https://srktnc.github.io/tr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://srktnc.github.io/categories/"
+                href="https://srktnc.github.io/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://srktnc.github.io/</loc>
+    <loc>https://srktnc.github.io/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://srktnc.github.io/tr/"
+                href="https://srktnc.github.io/tr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://srktnc.github.io/"
+                href="https://srktnc.github.io/"
                 />
   </url>
   
   <url>
-    <loc>http://srktnc.github.io/tags/</loc>
+    <loc>https://srktnc.github.io/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://srktnc.github.io/tr/tags/"
+                href="https://srktnc.github.io/tr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://srktnc.github.io/tags/"
+                href="https://srktnc.github.io/tags/"
                 />
   </url>
   

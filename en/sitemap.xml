@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://srktnc.github.io/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="http://srktnc.github.io/tr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://srktnc.github.io/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://srktnc.github.io/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="http://srktnc.github.io/tr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://srktnc.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://srktnc.github.io/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="http://srktnc.github.io/tr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://srktnc.github.io/tags/"
+                />
+  </url>
+  
+</urlset>
